@@ -1,5 +1,3 @@
-Kõrvalharu
 Mina ise saan Github'i kasutada näiteks programmeerimise tundides. Oletame, et meil on programmeerimise tunnis vaja grupitööna lähtekoodi kirjutada ja mingit tarkvara arendada. Kõige parem on seda ülesannet täita Github'i platvormiga, kus alguses saavad kõik ise alustada oma projektidega ning lõpuks kõik versioonid kokku liita. 
 GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. GitHub osteti Microsofti poolt 2018. aastal 7,5 miljardi dollari eest.
 GitHub on faili- või koodijagamisteenus erinevate inimestega koostöö tegemiseks. Seda kasutavad tavaliselt tarkvaraarendajad meeskonnad versioonikontrolliks. 
-main
