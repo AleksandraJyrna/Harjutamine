@@ -1,2 +1,1 @@
-GitHub on faili- või koodijagamisteenus erinevate inimestega koostöö tegemiseks. Seda kasutavad tavaliselt tarkvaraarendajad meeskonnad versioonikontrolliks. 
 Mina ise saan Github'i kasutada näiteks programmeerimise tundides. Oletame, et meil on programmeerimise tunnis vaja grupitööna lähtekoodi kirjutada ja mingit tarkvara arendada. Kõige parem on seda ülesannet täita Github'i platvormiga, kus alguses saavad kõik ise alustada oma projektidega ning lõpuks kõik versioonid kokku liita. 
